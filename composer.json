@@ -1,0 +1,11 @@
+{
+    "name": "vinacode/vagrant-easyengine-wordmove",
+    "license": "MIT",
+    "type": "project",
+    "require": {
+        "php": ">=7.0"
+    },
+    "description": "The Vagrant box include Easy Engine, Wordmove installed for Wordpress development",
+    "homepage": "https://htxquanghuc.com",
+    "prefer-stable": true
+}
